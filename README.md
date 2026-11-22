@@ -11,8 +11,8 @@
 ## 🛡️ Security & VirusTotal Verification (보안 검증)
 
 - **VirusTotal Scan Result:** `0 / 66` Clean (No security vendors flagged this file as malicious)
-- **SHA-256 (`FlasHelperV101A.zip`):** `256e58a0980245143f226b0efdf4e5a131731ffe9fdbfaadc5c85206444c2b83`
-- **VirusTotal Report:** https://www.virustotal.com/gui/file/256e58a0980245143f226b0efdf4e5a131731ffe9fdbfaadc5c85206444c2b83
+- **SHA-256 (`FlasHelperV101A.zip`):** `0a0fb42bcd9165991f03e53cf26af8ee8569f2012928f0032050b07ca9d0396c`
+- **VirusTotal Report:** https://www.virustotal.com/gui/file/0a0fb42bcd9165991f03e53cf26af8ee8569f2012928f0032050b07ca9d0396c
 - 본 소프트웨어는 전역 단축키 및 입력 자동화 기능을 포함하고 있으나, 모든 주요 백신 엔진에서 안전성을 검증받았습니다.
 - This software includes global hotkey and input automation features, but its safety has been verified by all major antivirus engines.
 
