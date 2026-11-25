@@ -1,6 +1,6 @@
 # FlasHelper (V102)
 
-* **Official Organization:** https://github.com/flashelper-official
+* **Official Organization:** https://github.com/flashelper-official/FlasHelper/
 
 * **Release Archive:** `FlasHelperV102.zip`
 
@@ -95,6 +95,20 @@
 * Convenience & Safety Features: Emergency Stop hotkey (default F7), screen-corner fail-safe, Mini Mode (Ctrl + 2), Click-Through Mode (Ctrl + 3), and 12 themes
 
 * Multi-Language Support (12 Languages): Korean, English, Japanese, Simplified Chinese, Indonesian, French, Traditional Chinese, German, Spanish, Portuguese (Brazil), Russian, and Vietnamese
+
+### 🖼️ 화면 예시 / Screenshots
+
+* **Timeline Macro Editor** (조건 매칭·테스트 및 타임라인 편집 / Condition matching, test results & timeline editing)
+
+<img width="1091" height="690" alt="macroeditor" src="https://github.com/user-attachments/assets/1093e896-7784-407c-8345-ea22f3a313f5" />
+
+* **Main Panel & Condition Setup** (매크로 추가, 조건 분기 설정 및 영역 오버레이 / Macro creation, condition branching & region overlay)
+
+<img width="853" height="698" alt="macropaneladd" src="https://github.com/user-attachments/assets/7a0f418b-3ca6-462d-92c4-94edcfe0776c" />
+
+* **Language & Advanced Settings** (언어 변경, 안전 가드 및 업데이트 확인 / Language selection, safety guards & update check)
+
+<img width="547" height="702" alt="Flashelper" src="https://github.com/user-attachments/assets/ea85207a-dcf5-4827-bcb2-27573524c582" />
 
 ## ⚠️ 이용 안내 및 면책 조항 / Notice & Disclaimer
 
